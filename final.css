@@ -15,6 +15,7 @@ body{
     height: 84%;
     flex-wrap: wrap;
     display: flex;
+    background: rgb(228, 226, 226);
 }
 .sub-con{
     text-align: center;
